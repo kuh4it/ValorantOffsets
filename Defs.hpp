@@ -1,4 +1,4 @@
-
+// Patch 8.01 [January 2024]
 namespace Offsets {
     constexpr uintptr_t OwningGameInstance = 0x1A0;
     constexpr uintptr_t PersistentLevel = 0x38;
