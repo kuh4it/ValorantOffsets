@@ -1,4 +1,7 @@
-// Patch 8.01 [January 2024]
+// VALORANT v08.01.00.2228372
+// Unreal Engine v4.27.2.0
+// Game Build Date: 2024-01-19T00:00:00Z
+// Riot Client Version: release-08.01-shipping-4-2228372
 namespace Offsets {
     constexpr uintptr_t OwningGameInstance = 0x1A0;
     constexpr uintptr_t PersistentLevel = 0x38;
